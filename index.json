@@ -1,0 +1,11 @@
+{
+ "blacklist": [],
+ "expires": 0,
+ "halt": false,
+ "halt_reason": "",
+ "issued": 0,
+ "map_index": 1,
+ "maps": [],
+ "refresh": 3600,
+ "serial": 0
+}
