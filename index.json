@@ -1,9 +1,9 @@
 {
  "blacklist": [],
- "expires": 1795594240,
+ "expires": 1795704965,
  "halt": false,
  "halt_reason": "",
- "issued": 1795335040,
+ "issued": 1795445765,
  "map_index": 1,
  "maps": [
   {
@@ -674,5 +674,5 @@
   }
  ],
  "refresh": 3600,
- "serial": 11
+ "serial": 12
 }
